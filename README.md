@@ -57,3 +57,14 @@ It utilizes an identity-preservation neural layer that anchors to structural lan
 
 **What resolutions and video durations can I output?**  
 The platform supports aspect ratios from mobile to widescreen cinematic formats, with durations between 3 to 15 seconds, and resolutions upscaled up to 4K through its dual-mode processing pipeline.
+
+
+## Related Tools & Guides
+
+### AI Tools
+*   **Kling Image-to-Video Engine:** Access the specialized [Kling Image-to-Video](https://imagevideoai.org/kling/image-to-video) page to convert static photos into detailed, motion-rich video clips.
+*   **Grok Imagine Video Generator:** Render stylized creative assets and motion designs using the integrated [Grok Imagine 1.5](https://imagevideoai.org/grok-imagine/grok-imagine-video-15) environment.
+
+### Guides & Explanations
+*   **How-To Article:** Read the step-by-step guide on [How to Create Video with Images](https://imagevideoai.org/blogs/how-to-create-video-with-images) to optimize your dynamic media workflow and get the most out of your static assets.
+*   
