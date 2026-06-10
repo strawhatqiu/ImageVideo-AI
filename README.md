@@ -67,4 +67,3 @@ The platform supports aspect ratios from mobile to widescreen cinematic formats,
 
 ### Guides & Explanations
 *   **How-To Article:** Read the step-by-step guide on [How to Create Video with Images](https://imagevideoai.org/blogs/how-to-create-video-with-images) to optimize your dynamic media workflow and get the most out of your static assets.
-*   
